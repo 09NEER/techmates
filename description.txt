@@ -1,0 +1,170 @@
+{
+  "about_us": {
+    "tagline": "Technology Reinvented",
+    "overview": "TechMates is an IT services provider delivering custom software, cloud, cybersecurity, IT infrastructure, data/BI, digital transformation and AI-enabled solutions for surveillance and assessment workflows.",
+    "mission": "",
+    "vision": "",
+    "values": "",
+    "source": "TechMates Corp.pdf"
+  },
+  "services": [
+    {
+      "name": "Custom Software Development",
+      "description": "Enterprise apps and mobile apps tailored to business goals.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "IT Infrastructure Management",
+      "description": "Network architecture, server maintenance and scalable, secure IT operations.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Cloud Solutions",
+      "description": "Cloud migration, management and optimization for flexibility and scalability.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Cybersecurity Services",
+      "description": "Risk assessments, threat detection, incident response and monitoring.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Managed IT Services",
+      "description": "Proactive management with 24/7 support acting as an extension of your team.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Data Analytics & Business Intelligence",
+      "description": "Actionable insights and data-driven decision support.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Digital Transformation",
+      "description": "Strategy and implementation to adopt new technologies and optimize processes.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "AI-Enabled Surveillance System",
+      "description": "Real-time threat detection, automated alerts and proactive security management.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Confidential Services",
+      "description": "Secure data management, strategic advisory, threat intelligence, investigation & compliance support, and secure infrastructure for classified projects.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "On-Screen Marking (OSM) / Digital Evaluation",
+      "description": "End-to-end digital evaluation: tagging, scanning, masking, batch uploads, evaluation workflows, dashboards and secure storage with auditability.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Document Digitization",
+      "description": "High-volume scanning and digital archiving workflows.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Computer Based Test (CBT) Platform",
+      "description": "End-to-end secure exam platform with custom OS, PXE boot, AES-256 encrypted QPs, biometric verification, HA servers and real-time command centre.",
+      "source": "CBT Corp.pdf"
+    },
+    {
+      "name": "Network Auditing",
+      "description": "Network assessments and hardening.",
+      "source": "TechMates Corp.pdf"
+    },
+    {
+      "name": "Manpower Supply",
+      "description": "Skilled technical staffing for projects and operations.",
+      "source": "TechMates Corp.pdf"
+    }
+  ],
+  "products": [
+    {
+      "name": "CBT / Exam Platform",
+      "highlights": [
+        "Single system to manage & execute exams; end-to-end secure",
+        "Custom, memory-only secure OS; boots over network (PXE); works on RAM",
+        "AES-256 encrypted question papers; decryption on student node only",
+        "Author/Reviewer/Approver workflow with key generation and validation",
+        "Primary/secondary servers (HA), secure VPN, intrusion detection",
+        "Biometric capture and (re)verification; random seat allocation; live dashboards"
+      ],
+      "source": "CBT Corp.pdf"
+    },
+    {
+      "name": "On-Screen Marking (OSM)",
+      "highlights": [
+        "Improved reliability and speed of marking; real-time progress monitoring",
+        "Book scanners (no cutting), secure storage, error-free tabulation",
+        "Easy re-evaluation; dashboards; elimination of physical script movement"
+      ],
+      "source": "TechMates Corp.pdf"
+    }
+  ],
+  "contact_info": {
+    "corporate_office": {
+      "name": "TechMates Consulting OPC Private Limited",
+      "address": "Berger Tower, Floor 19, C-001/A2, Sector 16B, Noida, Uttar Pradesh 201 301, India",
+      "phones": ["+91 98102 80264", "+91 99990 88482"],
+      "email": "contact@techmates.in",
+      "source": "TechMates Corp.pdf"
+    },
+    "registered_office": {
+      "address": "02012, ATS Advantage, Indirapuram, Ghaziabad, 201 014, Uttar Pradesh, India",
+      "source": "TechMates Corp.pdf"
+    },
+    "website": "www.techmates.in",
+    "source_website": "CBT Corp.pdf"
+  },
+  "team": [
+    {
+      "name": "Dr. Vishwajeet Singh",
+      "role": "Primary Contact / Presenter",
+      "email": "v.singh@techmates.in",
+      "phone": "+91 98102 80264",
+      "source": "TechMates Corp.pdf"
+    }
+  ],
+  "portfolio": {
+    "summary": "Application/platform used at multiple State Public Service Commissions and Universities (general reference, specific clients not listed).",
+    "source": "TechMates Corp.pdf"
+  },
+  "legal_policies": {
+    "privacy_policy": "",
+    "terms_and_conditions": "",
+    "disclaimer": ""
+  },
+  "certifications_and_recognition": {
+    "startup_india_recognition": {
+      "certificate_no": "DIPP145730",
+      "industry": "IT Services",
+      "sector": "IT Consulting",
+      "date_of_issue": "2023-09-14",
+      "valid_upto": "2032-02-11",
+      "source": "TechMates Corp.pdf"
+    },
+    "iso_27001_2022": {
+      "cert_no": "4B517149",
+      "scope": "Provision of IT services to government and enterprise customers including custom software development, IT infrastructure management, cloud solutions, cybersecurity services.",
+      "date_of_certification": "2025-05-09",
+      "expiry": "2028-05-08",
+      "surveillance_due_1": "2026-05-08",
+      "surveillance_due_2": "2027-05-08",
+      "registered_address": "02012, ATS Advantage, Ahinsa Khand-1, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+      "source": "Final Certificate 27001.pdf"
+    }
+  },
+  "testimonials": [],
+  "extras": {
+    "why_techmates": [
+      "Expertise and innovation",
+      "Client-centric approach",
+      "Reliability and trust",
+      "Scalable solutions",
+      "End-to-end support"
+    ],
+    "notes": "Dual-login (password + biometric) for evaluators; comprehensive dashboards; review basket; audit logs and AI facial recognition in OSM.",
+    "source": "TechMates Corp.pdf"
+  }
+}
